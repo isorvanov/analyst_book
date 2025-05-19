@@ -74,9 +74,14 @@ description: Обсудим кто такие IT-аналитики, какие 
   - Выполнить весь этот комплекс работ в сжатые сроки
 
 Поэтому современные проектные команды включают различных специалистов, где каждый отвечает за конкретный этап создания продукта.
-TBD
 
 ![Пример количества специалистов при реализации простой и сложной IT-системы](<.gitbook/assets/Аналитика (1).jpg>)
+
+{{< hint [info|warning|danger] >}}
+**Markdown content**  
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
+stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
+{{< /hint >}}
 
 {% hint style="warning" %}
 Состав команды может сильно отличаться в зависимости от потребностей организации или разработки определенного проекта/продукта.&#x20;

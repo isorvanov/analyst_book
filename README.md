@@ -3,11 +3,12 @@
 ![Roadmap BA-SA](.gitbook/assets/roadmap_BA_SA_final.drawio.png "Roadmap BA-SA")
 ========
 #### Файл для изменений **draw.io** [roadmap BA + SA](.gitbook/assets/roadmap_BA_SA_final.drawio)
+## О провефесии
 [О профессии](/about_the_profession.md)
-## Навигация по Roadmap
-{% tabs %}
-{% tab title="Soft skills" %}
-<mark style="color:green;">#Бизнес аналитик</mark> <mark style="color:green;">#Системный аналитик</mark>
+## Навигация по Roadmap:
+### Общие навыки для бизнес и системного аналитика:
+### Уникальные навыки бизнес аналитика:
+### Навыки навыки системного аналитика:
 
 {% content-ref url="basic_knowledge/gibkie-navyki-soft-skills/" %}
 [gibkie-navyki-soft-skills](basic\_knowledge/gibkie-navyki-soft-skills/)

@@ -1,9 +1,9 @@
 # Roadmap
 
-![Roadmap BA-SA](..gitbook/assets/roadmap_BA_SA_final.drawio.png)
+![Roadmap BA-SA](.gitbook/assets/roadmap_BA_SA_final.drawio.png "Roadmap BA-SA")
 ========
-#### Файл для изменений **draw.io** [roadmap BA + SA](..gitbook/assets/roadmap_BA_SA_final.drawio)
-![О профессии](..about the profession.md)
+#### Файл для изменений **draw.io** [roadmap BA + SA](.gitbook/assets/roadmap_BA_SA_final.drawio)
+[О профессии](../about_the_profession.md)
 ## Навигация по Roadmap
 {% tabs %}
 {% tab title="Soft skills" %}

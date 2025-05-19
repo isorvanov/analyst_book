@@ -1,13 +1,10 @@
 # Roadmap
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-{% content-ref url="README (1).md" %}
-[README (1).md](<README (1).md>)
-{% endcontent-ref %}
-
+![Roadmap BA-SA](..gitbook/assets/roadmap_BA_SA_final.drawio.png)
+========
+#### Файл для изменений **draw.io** [roadmap BA + SA](..gitbook/assets/roadmap_BA_SA_final.drawio)
+![О профессии](..about the profession.md)
 ## Навигация по Roadmap
-
 {% tabs %}
 {% tab title="Soft skills" %}
 <mark style="color:green;">#Бизнес аналитик</mark> <mark style="color:green;">#Системный аналитик</mark>
